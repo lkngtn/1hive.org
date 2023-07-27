@@ -1,27 +1,21 @@
 ---
-title: 🪴 Quartz 3.3
+title: 1Hive.org
 enableToc: false
 ---
 
-Host your second brain and [digital garden](https://jzhao.xyz/posts/networked-thought) for free. Quartz features
+This website intends to share a vision for [[1Hive]]. It is maintained by [[1Hive LLC]]. The [[views expressed are ours alone]] and may not always reflect the views of other [[Members of the 1Hive community|members of the 1Hive community]]. 
 
-1. Extremely fast natural-language [[notes/search]]
-2. Customizable and hackable design based on [Hugo](https://gohugo.io/)
-3. Automatically generated backlinks, link previews, and local graph
-4. Built-in [[notes/CJK + Latex Support (测试) | CJK + Latex Support]] and [[notes/callouts | Admonition-style callouts]]
-5. Support for both Markdown Links and Wikilinks
+We envision 1Hive becoming an impactful global community working together in accordance with the [[1Hive community covenant|community covenant]] to help humanity successfully navigate the [[A brief primer on the technological singularity|technological singularity]]. 
 
-Check out some of the [amazing gardens that community members](notes/showcase.md) have published with Quartz or read about [why I made Quartz](notes/philosophy.md) to begin with.
+A future where [[honey is money]], [[we are all 1Hive]], and [[together we thrive]]. 
 
-## Get Started
-> 📚 Step 1: [Setup your own digital garden using Quartz](notes/setup.md)
-
-Returning user? Figure out how to [[notes/updating|update]] your existing Quartz garden.
-
-If you prefer browsing the contents of this site through a list instead of a graph, you see a list of all [setup-related notes](/tags/setup).
-
-### Troubleshooting
-- 🚧 [Troubleshooting and FAQ](notes/troubleshooting.md)
-- 🐛 [Submit an Issue](https://github.com/jackyzha0/quartz/issues)
-- 👀 [Discord Community](https://discord.gg/cRFFHYye7t)
+If you're new to 1Hive and curious to learn more:
+* [[Why you shouldn't take 1Hive too seriously]]
+* [[How you can contribute to 1Hive regardless of skill or talent]]
+* [[The cult of 1Hive discord server|Joining the 1Hive community on discord]]
+* [[An overview of the 1Hive DAO protocol]]
+* [[Exploring cause-based currencies]]
+* [[A brief primer on the technological singularity]]
+* How to support our work using Honey
+* [[Understanding the implications of sufficient decentralization]]
 
