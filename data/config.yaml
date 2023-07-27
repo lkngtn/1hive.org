@@ -10,7 +10,7 @@ enableSPA: true
 enableFooter: true
 enableContextualBacklinks: true
 enableRecentNotes: false
-enableGitHubEdit: true
+enableGitHubEdit: false
 enableMermaid: true
 GitHubLink: https://github.com/lkngtn
 search:
@@ -26,3 +26,5 @@ links:
     link: https://discord.gg/SRYMKh3C4W
   - link_name: GitHub
     link: https://github.com/1hive
+favicon:
+  - {rel: "1Hive bee icon", href: "bee.svg", type:"image/svg"}

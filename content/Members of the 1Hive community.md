@@ -4,7 +4,7 @@ Often this simply means holding honey, participating in governance, interacting 
 
 However some individuals and organizations have made particularly noteworthy contributions that are worth highlighting more specifically: 
 
-[[1Hive LLC]] - Helped build and launch the [[An overview of the 1Hive DAO protocol|1Hive DAO protocol]], and currently maintains [[_index]], [[The cult of 1Hive discord server]], and [forum.1hive.org](https://forum.1hive.org)
+[[1Hive LLC]] - Helped build and launch the [[An overview of the 1Hive DAO protocol|1Hive DAO protocol]], and currently maintains [[_index|1hive.org]], [[The cult of 1Hive discord server]], and [forum.1hive.org](https://forum.1hive.org)
 
 [Blossom Labs](https://www.blossom.software/) - Helped build and launch the [[An overview of the 1Hive DAO protocol|1Hive DAO protocol]], and continues to work on various improvements to [[Gardens interface]] and Conviction. They also do freelance web3 development work. 
 
