@@ -1,3 +1,6 @@
+---
+title: "A brief primer on the technological singularity"
+---
 The [technological singularity](https://en.wikipedia.org/wiki/Technological_singularity) will occur when technological growth becomes uncontrollable and irreversible, resulting in unforeseeable changes to human civilization. Its arguable when exactly this point happened, or will happen, but regardless the rate of technological growth appears to be accelerating exponentially. 
 
 One important milestone that is widely associated with the singularity is the development of artificial general intelligence (AGI). [This milestone is predicted to be achieved alarmingly soon](https://www.metaculus.com/questions/3479/date-weakly-general-ai-is-publicly-known/). 

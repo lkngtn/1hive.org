@@ -1,3 +1,7 @@
+---
+title: "An overview of the 1Hive DAO protocol"
+---
+
 The current version of the protocol consists of the following functional components:
 
 [[honey is money|Honey]] - [[Exploring cause-based currencies|is a caused-based currency]], grants access to participate in Conviction and Celeste. 

@@ -1,3 +1,6 @@
+---
+title: "How you can contribute to 1Hive regardless of skill or talent"
+---
 If you’ve got this far, and are thinking to yourself, “Wow this sounds amazing, but also a bit confusing, where do I even start?” — That’s okay, and to be expected. 1Hive is dynamic and constantly changing. It can be chaotic and difficult to keep track of everything that is going on, even for the most consistent contributors. To help new bees find their way through 1Hive for the first time here are some resources to help you get started.
 
  1. Read the [[1Hive community covenant]] - this is like our constitution and sets expectation for how we interact with one another.

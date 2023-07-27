@@ -1,3 +1,7 @@
+---
+title: "Honey is Money"
+---
+
 [[Exploring cause-based currencies|Holding any currency is implicitly supporting a cause]]. It is a form of collective action where individuals bet on the realization of a future where others share their values. 
 
 The [[An overview of the 1Hive DAO protocol|1hive DAO protocol]] regulates the issuance and distribution of Honey in order to support the advancement of the [[1Hive community covenant|community covenant]]. 

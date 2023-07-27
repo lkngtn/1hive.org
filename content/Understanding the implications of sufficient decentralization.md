@@ -1,3 +1,7 @@
+---
+title: "Understanding the implications of sufficient decentralization"
+---
+
 For communities associated with a cryptocurrency or token, decentralization is an important factor in how the asset is likely to be regulated. A sufficiently decentralized asset is unlikely to be considered a security, because there isn't a centralized entity that a purchaser could reasonably expect to carry out essential managerial efforts. 
 
 The concept was introduced by William Hinman when he was working at the SEC and is generally cited as the reason why Ether and Bitcoin are generally understood to not be securities. 

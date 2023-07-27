@@ -1,3 +1,7 @@
+---
+title: "Exploring cause-based currencies"
+---
+
 Money is fundamentally a social construct, its is valuable because we believe it is valuable. In the past it has been difficult to establish a currency, with the most successful currencies being FIAT currencies backed by highly stable governments. 
 
 However, Bitcoin introduced an alternative to FIAT currency that has proven to be remarkably resilient, and since then countless numbers of cryptocurrencies have been created. Obviously most of these currencies are of dubious value, and most won't be culturally relevant or valuable in the future. 
