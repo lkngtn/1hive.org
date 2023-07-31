@@ -2,7 +2,7 @@
 title: "Members of the 1Hive community"
 ---
 
-[[1Hive]] is made up of individuals and organizations that have contributed in various ways to advancing 1Hive's cause. 
+[[_index|1Hive]] is made up of individuals and organizations that have contributed in various ways to advancing 1Hive's cause. 
 
 Often this simply means holding honey, participating in governance, interacting with other community members, engaging in discussion. Keep in mind that [[we are all 1Hive]], and [[How you can contribute to 1Hive regardless of skill or talent|you can contribute to 1Hive regardless of skill or talent]].
 
