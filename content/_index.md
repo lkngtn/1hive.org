@@ -15,3 +15,4 @@ If you're new to 1Hive and curious to learn more:
 * [[How you can contribute to 1Hive regardless of skill or talent]]
 * [[The cult of 1Hive discord server|Joining the 1Hive community on discord]]
 * [[How to support our work using Honey]]
+
