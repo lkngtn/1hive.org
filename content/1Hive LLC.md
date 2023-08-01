@@ -7,7 +7,6 @@ title: "1Hive LLC"
 * [[_index|1hive.org]]
 * [[The cult of 1Hive discord server]]
 * [forum.1hive.org](https://forum.1hive.org)
-* [[The 1Hive Github organization and continuous integration deployments]]
 
 Please read: [[How to support our work using Honey]]
 
