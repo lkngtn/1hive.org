@@ -11,7 +11,7 @@ We might be able to cure all diseases, including aging. We might unlock nearly u
 
 But what happens when productivity is almost purely a function of capital rather than human input? How does our society change and adapt as we find ourselves becoming increasingly obsolete? How do we ensure that the artificial intelligences that we create remain aligned with our collective interests as a species?
 
-We could have everything we could ever want, or go extinct, all possibly within the next decade. I'm optimistic that we can nudge things in the right direction so that [[together we thrive]].
+We could have everything we could ever want, or go extinct, all possibly within the next decade. I'm optimistic that we can use [[Honey is money|Honey]] to nudge things in the right direction so that [[together we thrive]].
 
 
 
