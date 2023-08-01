@@ -9,7 +9,7 @@ Often this simply means holding honey, participating in governance, interacting 
 However some individuals and organizations have made particularly noteworthy contributions that are worth highlighting more specifically: 
 
 ### [Blossom Labs](https://www.blossom.software/)
-Helped build and launch the [[An overview of the 1Hive DAO protocol|1Hive DAO protocol]], and continues to work on various improvements to [[Gardens interface]] and Conviction. They also do freelance web3 development work. 
+Helped build and launch the [[An overview of the 1Hive protocol|1Hive DAO protocol]], and continues to work on various improvements to [[Gardens interface]] and Conviction. They also do freelance web3 development work. 
 
 ### Honeyswap Swarm
 an informal working group of individual contributors lead by [paul2](https://forum.1hive.org/t/fluid-proposal-paul2-active-contributor/5525) maintaining and improving [[Honeyswap]]. 
@@ -21,19 +21,19 @@ an informal working group of individual contributors lead by [zero8](https://for
 an informal working group of individual contributors lead by [Gossman](https://forum.1hive.org/u/gossman123/summary) developing a bounty/escrow application integrated with Celeste. 
 
 ### Gardens swarm
-an informal working group of individual contributors maintaining and improving the [[An overview of the 1Hive DAO protocol|1Hive DAO protocol]] and [[Gardens interface]]. Lead by [paul2](https://forum.1hive.org/t/fluid-proposal-paul2-active-contributor/5525) and [Felipe Novaes Rocha](https://forum.1hive.org/t/fluid-proposal-felipe-novaes-rocha-active-contributor/5415/3)
+an informal working group of individual contributors maintaining and improving the [[An overview of the 1Hive protocol|1Hive DAO protocol]] and [[Gardens interface]]. Lead by [paul2](https://forum.1hive.org/t/fluid-proposal-paul2-active-contributor/5525) and [Felipe Novaes Rocha](https://forum.1hive.org/t/fluid-proposal-felipe-novaes-rocha-active-contributor/5415/3)
 
 ### [Aragon](https://aragon.org)
-Built aragonOS and Aragon Court, which are foundational technologies used in [[An overview of the 1Hive DAO protocol|1Hive DAO protocol]]. They also provided funding support through a grant for the initial development of Conviction. 
+Built aragonOS and Aragon Court, which are foundational technologies used in [[An overview of the 1Hive protocol|1Hive DAO protocol]]. They also provided funding support through a grant for the initial development of Conviction. 
 
 ### [Commons Stack](https://www.commonsstack.org/)
-Contributed to the research and design of the [[An overview of the 1Hive DAO protocol|1Hive DAO protocol]] including in-depth modeling of Conviction. They also helped adapt the protocol and interface to support the Token Engineering Commons.
+Contributed to the research and design of the [[An overview of the 1Hive protocol|1Hive DAO protocol]] including in-depth modeling of Conviction. They also helped adapt the protocol and interface to support the Token Engineering Commons.
 
 ### [Block Science](https://www.block.science/)
-is an engineering, R&D, and analytics firm specializing in complex systems. They wrote a paper on Conviction and provided feedback on its implementation. They also maintain [cadCAD](https://cadcad.org/) an open source tool that  members of the community have used to model system dynamics of [[honey is money|honey]] and Conviction. 
+is an engineering, R&D, and analytics firm specializing in complex systems. They wrote a paper on Conviction and provided feedback on its implementation. They also maintain [cadCAD](https://cadcad.org/) an open source tool that  members of the community have used to model system dynamics of [[Honey is money|honey]] and Conviction. 
 
 ### [Gnosis](https://gnosis.io) 
-maintains various Gnosis Chain infrastructure where the [[An overview of the 1Hive DAO protocol|1Hive DAO protocol]] is deployed. Also maintains Gnosis Safe which is currently used as a multisig by several 1Hive working groups, and which is likely be used as the basis for [[_DRAFT 1Hive Protocol 2.0]]
+maintains various Gnosis Chain infrastructure where the [[An overview of the 1Hive protocol|1Hive DAO protocol]] is deployed. Also maintains Gnosis Safe which is currently used as a multisig by several 1Hive working groups, and which is likely be used as the basis for [[_DRAFT 1Hive Protocol 2.0]]
 
 ### [[1Hive LLC]] 
-Helped build and launch the [[An overview of the 1Hive DAO protocol|1Hive DAO protocol]], and currently maintains [[_index|1hive.org]], [[The cult of 1Hive discord server]], and [forum.1hive.org](https://forum.1hive.org)
+Helped build and launch the [[An overview of the 1Hive protocol|1Hive DAO protocol]], and currently maintains [[_index|1hive.org]], [[The cult of 1Hive discord server]], and [forum.1hive.org](https://forum.1hive.org)

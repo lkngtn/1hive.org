@@ -5,8 +5,8 @@ If you’ve got this far, and are thinking to yourself, “Wow this sounds amazi
 
  1. Read the [[1Hive community covenant]] - this is like our constitution and sets expectation for how we interact with one another.
  2. Join the [[The cult of 1Hive discord server]]  - this is the primary place for synchronous coordination and discussions among community members. 
- 3. Join the [forum](https://forum.1hive.org) - this is where you can find longer form, more asynchronous discussions, its also where proposals that allocate [[honey is money|honey]] from the common pool are discussed.
- 4. Participate in [[An overview of the 1Hive DAO protocol|1Hive DAO]] governance!
+ 3. Join the [forum](https://forum.1hive.org) - this is where you can find longer form, more asynchronous discussions, its also where proposals that allocate [[Honey is money|honey]] from the common pool are discussed.
+ 4. Participate in [[An overview of the 1Hive protocol|1Hive DAO]] governance!
 
 You don't need specific skills or talents to contribute. Simply starting and joining discussions within these spaces, helping create positive experiences for others by engaging with them, and sharing your ideas with the community can help make 1Hive a more vibrant and exciting place.
 
