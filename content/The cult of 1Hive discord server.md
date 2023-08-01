@@ -10,7 +10,7 @@ Currently the following roles are available:
 
 **Acolyte** requires holding 25 [[Honey is money|Honey]], including Honey that is staked in Celeste.
 
-**Builder** requires being added to the Builders registry as a recognition of contribution to the [[_index|1Hive community]]. If you feel like you have made sufficient contributions and haven't been granted the role yet, simply ask to be given the role in a public channel and the Sages will review and discuss your request.  
+**Builder** is a recognition of contribution to the [[_index|1Hive community]]. If you feel like you have made sufficient contributions and haven't been granted the role yet, simply ask to be given the role in a public channel and the Sages will review and discuss your request.  
 
-**Sage** require a member to have both the Acolyte and Builder roles. 
+**Sage** requires a member to have both the Acolyte and Builder roles. 
 
