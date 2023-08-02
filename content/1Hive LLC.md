@@ -7,13 +7,13 @@ title: "1Hive LLC"
 * Maintains [[_index|1hive.org]] as a resource for onboarding community members. 
   * Share 1Hive LLC’s vision for the 1Hive community
   * Document how to interact with the 1Hive protocol
-  * Host frontend interfaces for interacting with the 1Hive protocol ([gardens](home) + [celeste](https://celeste.1hive.org/#/dashboard))
+  * Host frontend interfaces for interacting with the 1Hive protocol ([gardens](https://gardens.1hive.org) + [celeste](https://celeste.1hive.org/#/dashboard))
   * Host [forum.1hive.org](https://forum.1hive.org) to help facilitate long-form community discussion 
 
 * Maintains [[The cult of 1Hive discord server]] 
   * Administer the discord server, adding channels, roles, and other integrations in order to create an enjoyable and productive synchronous community discussion space
 
-In addition we hope to work with other members of the community on the following initiatives. 
+In addition we intend to with other members of the community on the following initiatives: 
 
 * Update the 1Hive community covenant
   * Clarify the shared vision of the 1hive community to enable us to better attract and retain new contributors
