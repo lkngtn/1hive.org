@@ -13,7 +13,7 @@ title: "1Hive LLC"
 * Maintains [[The cult of 1Hive discord server]] 
   * Administer the discord server, adding channels, roles, and other integrations in order to create an enjoyable and productive synchronous community discussion space
 
-In addition we intend to with other members of the community on the following initiatives: 
+In addition we intend to work with other members of the community on the following initiatives: 
 
 * Update the 1Hive community covenant
   * Clarify the shared vision of the 1hive community to enable us to better attract and retain new contributors
