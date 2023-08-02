@@ -18,13 +18,13 @@ In addition we intend to work with other members of the community on the followi
 * Update the 1Hive community covenant
   * Clarify the shared vision of the 1hive community to enable us to better attract and retain new contributors
 
-* Improve Honey Liquidity with Balancer
+* [Improve Honey Liquidity](https://docs.google.com/document/d/1EqNlah4syjZoAS2rFw0XwLmhNzWpCLFH6zy_9DYHHfc/edit) with Balancer
   * Develop a liquidity management extension based on fluid proposals and celeste, that allows 1Hive signaling proposals to be used to manage Honey liquidity in a balancer managed pool. 
   * A Streaming proposal is used to allocate honey from the common pool to the liquidity pool allowing community members to vote to increase liquidity. 
   * Signaling proposals are used to add, remove, and adjust the weights of tokens besides Honey in the managed pool.
 
-* Building public infrastructure to support the widespread adoption of conviction currencies like Honey. 
-  * Work with other 1Hive community members to create a specification for 1hive protocol v2 
+* Building public infrastructure to support the widespread adoption of "conviction currencies" like Honey. 
+  * Work with other 1Hive community members to create a specification for [1hive protocol v2](https://docs.google.com/document/d/1Wrvj0exmt10s9whDjb-QTKqfTdkXrbD2-QHbnC7OCDM/edit) 
   * Develop and test a reference implementation that can be used to deploy a conviction currency like Honey (along with relevant infrastructure) on any EVM compatible blockchain network 
   * Migrate Honey to 1Hive protocol v2 implementation
 
