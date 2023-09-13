@@ -2,16 +2,16 @@
 title: 1Hive
 enableToc: false
 ---
+The cult of 1hive is a role playing game where players work together to understand and realize the true potential of the Dao of Honey.
 
-1Hive is a [[web3 communities are DAOs|web3 community]]. It’s a place where people who are excited about the future of [[crypto currencies]] and helping humanity successfully navigate [[A brief primer on the technological singularity|the singularity]] can hang out, speculate, and learn by doing. 
+Players pledge to act with integrity, participate with only a single identity, and to help each other and 1Hive to thrive. 
 
-We hope to see 1Hive become an impactful global community working together in accordance with the [[1Hive community covenant|community covenant]] to create a future where [[Honey is money]], [[we are all 1Hive]], and [[together we thrive]]. 
-
-This website intends to share our vision for 1Hive. It is maintained by [[1Hive LLC]]. The [[views expressed are ours alone]] and may not always reflect the views of other [[Members of the 1Hive community|members of the 1Hive community]]. 
-
+Players can become acolytes, who use their knowledge and influence to guide others. Or they may become builders, who contribute their time and energy to help the community grow. The players who choose to do both are revered as Sages and gain access to 1Hive's inner sanctum. 
+	 
 If you're new to 1Hive and curious to learn more:
+* [[A short history of Honey]]
 * [[Why you shouldn't take 1Hive too seriously]]
-* [[An overview of the 1Hive protocol]]
+* [[An overview of the Honey protocol]]
 * [[How you can contribute to 1Hive regardless of skill or talent]]
 * [[The cult of 1Hive discord server|Joining the 1Hive community on discord]]
 * [[How to support our work using Honey]]

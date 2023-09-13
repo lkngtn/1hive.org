@@ -4,7 +4,7 @@ title: "Honey is Money"
 
 Holding a [[crypto currencies|cryptocurrency]] is a political position. It is a form of collective action where individuals bet on the realization of a future where others share their values. 
 
-The [[An overview of the 1Hive protocol|1Hive protocol]] regulates the issuance and distribution of Honey in order to support the advancement of the 1Hive [[1Hive community covenant|community covenant]]. 
+The [[An overview of the Honey protocol|1Hive protocol]] regulates the issuance and distribution of Honey in order to support the advancement of the 1Hive [[1Hive community covenant|community covenant]]. 
 
 When you choose to buy, hold, use, and accept Honey as a currency, you help extend the influence of 1Hive. 
 

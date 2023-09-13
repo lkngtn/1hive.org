@@ -1,5 +1,5 @@
 ---
-title: "An overview of the 1Hive protocol"
+title: "An overview of the Honey protocol"
 enableToc: false
 ---
 
