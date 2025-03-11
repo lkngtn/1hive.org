@@ -2,17 +2,18 @@
 title: 1Hive
 enableToc: false
 ---
-1Hive is a decentralized autonomous organization associated with the highly experimental cryptocurrency Honey. 
+1Hive is a community dedicated to the establishment of a decentralized currency that aligns with our collective values. 
 
-Members pledge to act with integrity, participate with only a single identity, and to help each other and 1Hive to thrive. 
+We believe open and decentralized systems will be increasingly critical for alignment of our social, technological, and economic institutions. 
 
-Members can become acolytes, who use their knowledge and influence to guide others. Or they may become builders, who contribute their time and energy to help the community grow. Those who choose to do both are revered as Sages and gain access to 1Hive's inner sanctum. 
-	 
+We want to work together and build towards a future that is more free, fair, open and humane. 
+
+We are all 1Hive, together we thrive.
+
 If you're new to 1Hive and curious to learn more:
 * [[Why Honey?]]
-* [[Acolytes and Builders]]
-* [[How you can contribute to 1Hive regardless of skill or talent]]
-* [[Why you shouldn't take 1Hive too seriously]]
-* [[The cult of 1Hive discord server|Joining the 1Hive community on discord]]
-* [[How to support our work using Honey]]
+* [[Join the community]]
+* [[How you can contribute]]
+* [[Rewarding contributions]]
+* [[Our core infrastructure]]
 
