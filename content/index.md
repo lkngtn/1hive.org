@@ -1,7 +1,7 @@
 ---
 title: Welcome to 1Hive
 ---
-A public handbook for understanding, exploring, and contributing to the 1Hive community.
+This is a community maintained wiki for understanding, exploring, and contributing to the 1Hive community.
 
 **1Hive** is a community of creators and dreamers working toward a future that is more **free**, **fair**, **open**, and **humane**.  
 
