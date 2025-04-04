@@ -1,3 +1,0 @@
-The most important way to reward contributions is by signaling support for contributors directly within gardens
-
-In some cases larger projects will require more organization and capital and may make funding proposals which are used to pay for expenses.
